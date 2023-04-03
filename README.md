@@ -1,7 +1,7 @@
 # Title
 
 150 word description
-## Intstallation instructions
+## Intstallation ins
 
 - **Bold Bullet point:** 
 - **Bold Bullet point:** 
