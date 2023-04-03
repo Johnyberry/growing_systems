@@ -7,6 +7,6 @@ This pluggin is developing a software application that utilizes a modular growin
 - **Bold Bullet point:** 
 - **Bold Bullet point:** 
 
--[Link to live VR site](https://immersive-example.glitch.me)
+-[Link to live VR site](https://modular-placement-in-site-.glitch.me/)
 
--[Link to edit VR site](https://glitch.com/edit/#!/immersive-example)
+-[Link to edit VR site](https://modular-placement-in-site-.glitch.me/)
