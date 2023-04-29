@@ -5,8 +5,8 @@ This pluggin is developing a software application that utilizes a modular growin
 
 - **First step:** 
 
-- **Bold Bullet point:** 
-- **Bold Bullet point:** 
+- **Second step:** 
+- **Third step:** 
 
 -[Link to live VR site](https://modular-placement-in-site-.glitch.me/)
 
