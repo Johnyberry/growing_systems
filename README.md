@@ -1,4 +1,5 @@
 # growing_systems
+@ -4,10 +4,12 @@ This pluggin is developing a software application that utilizes a modular growin
 ## Intstallation instructions
 
 - **First step:** 
